@@ -1,4 +1,4 @@
-Olá! Eu sou o Gabriel de Almeida 👋
+Olá! Sou o Gabriel de Almeida 👋
 
 
 - 🔭 Atualmente estou trabalhando de autônomo e estou fazendo transição de carreira, para a área de Tecnologia.
