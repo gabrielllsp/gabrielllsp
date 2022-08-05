@@ -2,9 +2,7 @@ Olá! Sou o Gabriel de Almeida 👋
 
 
 - 🔭 Atualmente estou trabalhando de autônomo e estou fazendo transição de carreira para a área de Tecnologia.
-- 🌱 Estou Cursando Analise e Desenvolvimento de Sistemas no Senac, estudando Programação Back-End Java e Cursando Análise de dados do Google.
-
-- 🤔 Estou procurando ajuda para aprender e crescer na área.
+- 🌱 Estou Cursando Analise e Desenvolvimento de Sistemas no Senac, estudando Programação Back-End Java e Cursando Análise de dados.
 
 - 📫 Este o link do meu Linkedin: https://www.linkedin.com/in/gabriel-almeida-moreira-java/
 
