@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielllsp&show_icons=true&count_private=true&hide_border=true&title_color=1CBD24&icon_color=1CBD24&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel de  Almeida Moreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielllsp&layout=compact&hide_border=true&title_color=1CBD24&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielllsp&layout=compact&hide_border=true&title_color=1CBD24&text_color=1CBD24&bg_color=0d1117" />
 </div>
 
 ### Main skills:
