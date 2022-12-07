@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1CBD24&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Almeida+Moreira;I'm+37+years+old;I+from+São+Paulo,+SP;I+study+systems+development+at+Android;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielllsp&show_icons=true&count_private=true&hide_border=true&title_color=1CBD24&icon_color=1CBD24&text_color=c9d1d9&bg_color=295872" alt="Gabriel de  Almeida Moreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielllsp&layout=compact&hide_border=true&title_color=1CBD24&text_color=1CBD24&bg_color=295872" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielllsp&show_icons=true&count_private=true&hide_border=true&title_color=1CBD24&icon_color=1CBD24&text_color=c9d1d9&bg_color=2c3e50" alt="Gabriel de  Almeida Moreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielllsp&layout=compact&hide_border=true&title_color=1CBD24&text_color=1CBD24&bg_color=2c3e50" />
 </div>
 
 ### Main skills:
